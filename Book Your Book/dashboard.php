@@ -69,7 +69,7 @@ if(!isset($_SESSION['yr']))
     <a class="nav-link" href="profile.php" style="color: #5D2A1E;text-align: right;">PROFILE</a>  
     </li>
     <li class="nav-item col-lg-1">
-    <a class="nav-link" href="LOGOUTut.php" style="color: #5D2A1E;text-align: right;">LOGOUT</a>
+    <a class="nav-link" href="logout.php" style="color: #5D2A1E;text-align: right;">LOGOUT</a>
     </li>
 </ul>
 
